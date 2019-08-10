@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomIntentDemoApp</string>
+    <string name="custom_toastdemo_app">Custom ToastDemo App</string>
+    <string name="toast_it">Toast it</string>
+</resources>
